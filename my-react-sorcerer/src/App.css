@@ -1,0 +1,33 @@
+.save-btn{
+  background-color: blue;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 35px;
+  cursor: pointer;
+  border: none;
+  font-weight: 600;
+  width: 120px;
+  font-size: 20px;
+}
+.save-btn:hover{
+  background-color: white;
+  color: blue;
+}
+.editor{
+  text-align: center;
+}
+.editor-box{
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 200px;
+  margin: 20px 90px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+body{
+  background-color: grey;
+}
+h2{
+  color: #fff;
+}
